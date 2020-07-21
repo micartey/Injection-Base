@@ -26,4 +26,5 @@ public class Agent {
 ```
 
 Write your code in `agentmain`, but **DO NOT** rename the method.
-The code will executed on the VM you're injecting.
+
+The code will be executed on the VM you're injecting.
