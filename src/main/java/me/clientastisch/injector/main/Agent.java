@@ -6,8 +6,6 @@ public class Agent {
 
     public static void agentmain(String args, Instrumentation instrumentation) {
         System.out.println("Agent injected!");
-
-        System.out.println("Done");
     }
 
 }
