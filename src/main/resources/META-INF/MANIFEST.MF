@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
 Main-Class: me.clientastisch.injector.main.Main
-Agent-Class: me.clientastisch.injector.main.Agent
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true
