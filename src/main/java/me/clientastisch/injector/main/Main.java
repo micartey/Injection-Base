@@ -21,7 +21,6 @@ public class Main {
         options.addOption(file);
         options.addOption(list);
 
-
         CommandLineParser parser = new PosixParser();
         val formatter = new HelpFormatter();
 
